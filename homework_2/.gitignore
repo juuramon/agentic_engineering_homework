@@ -1,0 +1,6 @@
+.claude/settings.local.json
+.claude/.credentials.json
+.env
+.env.*
+node_modules/
+*.log
